@@ -77,15 +77,25 @@ plt.show()
 
 ### OUTPUT:
 Original Dataset 
+
+
 <img width="532" height="151" alt="image" src="https://github.com/user-attachments/assets/9dfb0c93-1476-41d3-adb4-8bbe79795a1f" />
 
 Trend Plot
+
+
 <img width="528" height="154" alt="image" src="https://github.com/user-attachments/assets/cc6300e2-461b-4dcf-90d9-7e4d4d999102" />
 
 Seasonality Plot 
+
+
 <img width="493" height="161" alt="image" src="https://github.com/user-attachments/assets/4d994c92-2414-47a0-8105-4282722dd542" />
 
+
+
 Residual Plot
+
+
 <img width="541" height="155" alt="image" src="https://github.com/user-attachments/assets/ba1bb816-93d6-40c4-9bb8-370fbe614441" />
 
 ### RESULT:
